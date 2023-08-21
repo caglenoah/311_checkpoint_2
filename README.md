@@ -1,13 +1,14 @@
 # 311_checkpoint_2
 
-************\*************RUBRIC********\*\*\*********
+****\*\*\*\*****\*****\*\*\*\*****RUBRIC**\*\*\*\***\*\*\***\*\*\*\***
 ● 15 pts
 Create a new repo ("name it whatever you like - (311-Checkpoint2, Capstone-Backend") with:
 A package.json file with the modules you intend to use (look at previous assignments)
-Use dotenv wiith secrets for your database connection
+Use dotenv with secrets for your database connection
 .gitignore file with node_modules and .env
 Any assets you want to use (images, links, notes on folder structure, auth integration process, external APIs, etc.)
 ● 30 pts
+
 Database Layout Diagram (ERD)
 This can be done using Excel, Pen and Paper, UML diagrams, or any other way that includes the following:
 What tables you have
