@@ -1,6 +1,6 @@
 # 311_checkpoint_2
 
-****\*\*\*\*****\*****\*\*\*\*****RUBRIC**\*\*\*\***\*\*\***\*\*\*\***
+\***\*\*\*\*\*\*\***\*\***\*\*\*\*\*\*\***RUBRIC**\*\*\*\***\*\*\***\*\*\*\***
 ● 15 pts
 Create a new repo ("name it whatever you like - (311-Checkpoint2, Capstone-Backend") with:
 A package.json file with the modules you intend to use (look at previous assignments)
